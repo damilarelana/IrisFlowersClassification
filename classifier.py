@@ -33,5 +33,5 @@ dataset.plot(kind='box', subplots=True, layout=(2,2), sharex=False, sharey=False
 plt.show()
 dataset.hist()  # histogram plot [automatically detects the class/subplots]
 plt.show()
-scatter_matrix(dataset)  # scatter matrix [using scatter plots] to plot each data frame column against other 3 columns
+scatter_matrix(dataset)  # scatter matrix to plot each dataframe column against other 3 columns [using scatter plots]
 plt.show()

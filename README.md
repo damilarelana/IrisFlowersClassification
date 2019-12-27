@@ -1,3 +1,10 @@
-### simpleImageClassification
+### A simple Scikit-Learn implementation of Iris Flowers classification
 
-This tool classifies the `iris flowers` within the `iris dataset`
+* Scikit-Learn
+* Iris Dataset
+* Iris Flowers
+* Test Harness
+* KNN
+* Seaborn
+* Matplotlib
+* Pandas
